@@ -1,6 +1,8 @@
 # ESP32 EngiQ Door Sensor  
 
-This project uses an **ESP32**, a **magnetic door sensor**, and a **16x2 I2C LCD** to detect door open/close states and display the status. The ESP32 connects to a **WPA2 Enterprise Wi-Fi** and can optionally send updates (e.g., to Discord via Webhook).  
+This project uses an **ESP32**, a **magnetic door sensor**, and a **16x2 I2C LCD** to detect door open/close states and display the status. The ESP32 connects to a **WPA2 Enterprise Wi-Fi** and can optionally send updates (e.g., to Discord via Webhook). 
+
+Running code in folder code-sensor/code-sensor.ini
 
 ---
 
